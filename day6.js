@@ -1,6 +1,4 @@
-/*
 
-*/
 let str="We are dev"
 var res=str.split(" ") //splits the string according to give parameter and splits the string accordingly and changes it to array 
 console.log(res);
